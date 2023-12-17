@@ -1,0 +1,6 @@
+dist/
+loader/
+node_modules/
+www/
+*.png
+packages/core/src/components.d.ts

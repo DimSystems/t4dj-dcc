@@ -1,0 +1,10 @@
+*.js
+*.jsx
+*.test.js
+*.test.jsx
+stencil-public-runtime.d.ts
+packages/core/dist
+packages/core/loader
+packages/core/www
+packages/core/src/components.d.ts
+node_modules/
